@@ -2,7 +2,7 @@
   "name": "js-final",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Serhiy8.github.io/js-final",
+  "homepage": "https://serhiy8.github.io/js-final",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /parcel-project-template/"
